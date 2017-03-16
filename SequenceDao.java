@@ -3,7 +3,7 @@
 import org.springframework.dao.DataAccessException;
 2
 import com.sdb.common.sequence.model.Sequence;
-
+45
 /**
  * 通过代码实现类似Oracle的Sequence的功能。
  * mysql、sqlserver数据库的自增长字段和oracle的Sequence均通过该功能实现。
