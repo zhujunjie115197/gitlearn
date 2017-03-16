@@ -1,7 +1,7 @@
-package com.sdb.common.sequence.dao;
+﻿package com.sdb.common.sequence.dao;
 
 import org.springframework.dao.DataAccessException;
-
+2
 import com.sdb.common.sequence.model.Sequence;
 
 /**
